@@ -1,0 +1,26 @@
+recipes/repository/UserRepository.java
+ recipes.repository.UserRepository
+recipes/config/AuthenticationFacade.java
+ recipes.config.AuthenticationFacade
+recipes/RecipesApplication.java
+ recipes.RecipesApplication
+recipes/config/IAuthenticationFacade.java
+ recipes.config.IAuthenticationFacade
+recipes/config/SecurityConfig.java
+ recipes.config.SecurityConfig
+recipes/repository/RecipeRepository.java
+ recipes.repository.RecipeRepository
+recipes/controller/RecipeController.java
+ recipes.controller.RecipeController
+recipes/model/Recipe.java
+ recipes.model.Recipe
+recipes/service/RecipeService.java
+ recipes.service.RecipeService
+recipes/controller/UserController.java
+ recipes.controller.UserController
+recipes/config/CustomAuthenticationProvider.java
+ recipes.config.CustomAuthenticationProvider
+recipes/service/UserService.java
+ recipes.service.UserService
+recipes/model/User.java
+ recipes.model.User
